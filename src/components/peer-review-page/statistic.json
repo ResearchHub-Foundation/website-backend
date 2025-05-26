@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_peer_review_page_statistics",
+  "info": {
+    "displayName": "Statistic"
+  },
+  "options": {},
+  "attributes": {
+    "Number": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}

@@ -15,6 +15,16 @@
       "type": "component",
       "repeatable": false,
       "component": "shared.hero"
+    },
+    "Steps": {
+      "type": "component",
+      "repeatable": true,
+      "component": "peer-review-page.step"
+    },
+    "Statistics": {
+      "type": "component",
+      "repeatable": true,
+      "component": "peer-review-page.statistic"
     }
   }
 }
